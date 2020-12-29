@@ -29,10 +29,11 @@ This way, the model learns an inner representation of the English language that 
 ```
 from transformers import pipeline
 
-chef = pipeline('text-generation',model=r"gpt2-bio-pt", tokenizer=r"gpt2-bio-pt",config={'max_length':800}, framwork="tf")
+chef = pipeline('text-generation',model=r"pucpr/gpt2-bio-pt", tokenizer=r"pucpr/gpt2-bio-pt",config={'max_length':800})
 
 result = chef('O paciente chegou no hospital')[0]['generated_text']
 print(result)
 ```
+
 ## Citation
 * soon *
