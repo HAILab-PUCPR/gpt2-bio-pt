@@ -34,9 +34,11 @@ chef = pipeline('text-generation',model=r"pucpr/gpt2-bio-pt", tokenizer=r"pucpr/
 result = chef('O paciente chegou no hospital')[0]['generated_text']
 print(result)
 
-*O paciente chegou no hospital três meses após a operação, não houve complicações graves.  Entre os grupos que apresentaram maior número de lesões, o exame da cavidade pélvica estava significantemente associado à ausência de complicações.  Foi encontrada uma maior incidência de fraturas (...)*
-
 ```
+
+Resultado:
+```O paciente chegou no hospital três meses após a operação, não houve complicações graves.  Entre os grupos que apresentaram maior número de lesões, o exame da cavidade pélvica estava significantemente associado à ausência de complicações.  Foi encontrada uma maior incidência de fraturas (...)```
+
 
 ## Citation
 *soon*
