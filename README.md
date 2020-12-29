@@ -37,7 +37,8 @@ print(result)
 ```
 
 Resultado:
-```O paciente chegou no hospital três meses após a operação, não houve complicações graves.  Entre os grupos que apresentaram maior número de lesões, o exame da cavidade pélvica estava significantemente associado à ausência de complicações.  Foi encontrada uma maior incidência de fraturas (...)```
+
+*```O paciente chegou no hospital três meses após a operação, não houve complicações graves.  Entre os grupos que apresentaram maior número de lesões, o exame da cavidade pélvica estava significantemente associado à ausência de complicações.  Foi encontrada uma maior incidência de fraturas (...)```*
 
 
 ## Citation
