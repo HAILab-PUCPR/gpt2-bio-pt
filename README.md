@@ -1,8 +1,8 @@
-# GPT2-Bio-PT - a Language Model for Portuguese Biomedical text generation
+# GPT2-Bio-Pt - a Language Model for Portuguese Biomedical text generation
 
 ## Introduction
 
-GPT2-Bio-PT (Portuguese Biomedical GPT-2 small) is a language model for Portuguese based on the OpenAI GPT-2 model, trained from the [GPorTuguese-2](https://huggingface.co/pierreguillou/gpt2-small-portuguese/) with biomedical literature.
+GPT2-Bio-Pt (Portuguese Biomedical GPT-2 small) is a language model for Portuguese based on the OpenAI GPT-2 model, trained from the [GPorTuguese-2](https://huggingface.co/pierreguillou/gpt2-small-portuguese/) with biomedical literature.
 
 We used **Transfer Learning and Fine-tuning techniques** with 110MB of training data, corresponding to 16,209,373 tokens and 729,654 sentences. 
 
@@ -24,7 +24,7 @@ More precisely, inputs are sequences of continuous text of a certain length and 
 
 This way, the model learns an inner representation of the English language that can then be used to extract features useful for downstream tasks. The model is best at what it was pretrained for however, which is generating texts from a prompt.
 
-## How to use GPT2-BioPT with HuggingFace
+## How to use GPT2-Bio-Pt with HuggingFace
 
 ```
 from transformers import pipeline
