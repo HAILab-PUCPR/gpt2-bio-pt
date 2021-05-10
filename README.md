@@ -1,3 +1,5 @@
+<img src="./img/logo-gpt2-bio-pt.png" alt="Logo GPT2-Bio-Pt">
+
 # GPT2-Bio-Pt - a Language Model for Portuguese Biomedical text generation
 
 ## Introduction
