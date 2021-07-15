@@ -49,6 +49,7 @@ Resultado:
 
 
 ## Citation
+```
 @INPROCEEDINGS{9474713,
   author={Schneider, Elisa Terumi Rubel and de Souza, João Vitor Andrioli and Gumiel, Yohan Bonescki and Moro, Claudia and Paraiso, Emerson Cabrera},
   booktitle={2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS)}, 
@@ -58,3 +59,4 @@ Resultado:
   number={},
   pages={474-479},
   doi={10.1109/CBMS52027.2021.00056}}
+```
