@@ -47,6 +47,9 @@ Resultado:
 
 *```O paciente chegou no hospital três meses após a operação, não houve complicações graves.  Entre os grupos que apresentaram maior número de lesões, o exame da cavidade pélvica estava significantemente associado à ausência de complicações.  Foi encontrada uma maior incidência de fraturas (...)```*
 
+If the model was useful, we would love to receive a like ❤️
+
+<img src="./img/like-biobertpt-gpt.jpg" alt="GPT2-Bio-Pt" width="80%">
 
 ## Citation
 ```
