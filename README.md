@@ -49,7 +49,7 @@ Resultado:
 
 If the model was useful, we would love to receive a like ❤️
 
-<img src="./img/like-biobertpt-gpt.jpg" alt="GPT2-Bio-Pt" width="80%">
+<img src="./img/like-biobertpt-gpt.jpg" alt="GPT2-Bio-Pt">
 
 ## Citation
 ```
